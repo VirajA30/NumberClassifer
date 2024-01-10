@@ -4,7 +4,7 @@ This Python program takes an integer input and classifies it into one of three c
 Usage
 Clone the Repository:
 
-git clone https://github.com/VirajA30/NumberClassifier.git
+git clone https://github.com/VirajA30/NumberClassifer.git
 
 
 Run the Program:
@@ -29,4 +29,4 @@ input: 0
 
 
 This README provides a brief overview of what the code does, how to use it, an example of its output.
-https://github.com/VirajA30/NumberClassifier.git)https://github.com/VirajA30/NumberClassifier.git
+https://github.com/VirajA30/NumberClassifer.git
